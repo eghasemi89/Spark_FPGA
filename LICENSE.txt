@@ -1,1 +1,4 @@
 All files in this distribution is subjected to the MIT license terms, as described here: https://opensource.org/licenses/MIT 
+
+
+Copyright 2017 Ehsan Ghasemi
